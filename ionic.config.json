@@ -1,0 +1,7 @@
+{
+  "name": "whistlewatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
