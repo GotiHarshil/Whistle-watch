@@ -1,14 +1,14 @@
 {
-  "short_name": "Ionic App",
+  "short_name": "Frequency detector",
   "name": "My Ionic App",
   "icons": [
     {
-      "src": "assets/icon/favicon.png",
+      "src": "asset/icons/Icon64.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "assets/icon/icon.png",
+      "src": "asset/icons/Icon512.jpg",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
